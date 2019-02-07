@@ -1,21 +1,17 @@
-# Implementing BottomAppBar – Material Components
-Explained how to implement BottomAppBar.
+# Building a Custom Overflow Menu
+Explained how to implement Custom Overflow Menu.
 
-![FAB Center Mode](https://i2.wp.com/www.androhub.com/wp-content/uploads/2019/01/center_mode.jpg?resize=768%2C204) | ![FAB End Mode](https://i1.wp.com/www.androhub.com/wp-content/uploads/2019/01/end_mode.jpg?resize=768%2C204)
----|---
-FAB Center Mode | Fab End Mode
+![Default Overflow Menu](https://i0.wp.com/www.androhub.com/wp-content/uploads/2019/01/default_overflow_menu.jpg?resize=512%2C1024) | ![Custom Overflow Menu with Icons](https://i0.wp.com/www.androhub.com/wp-content/uploads/2019/01/custom_overflow_menu.jpg?resize=512%2C1024) | ![Styled Overflow Menu](https://i1.wp.com/www.androhub.com/wp-content/uploads/2019/01/styled_overflow_menu.jpg?resize=512%2C1024)
+---|---|---
+Default Overflow Menu | Custom Overflow Menu with Icons | Styled Overflow Menu
 
-![Bottom App Bar](https://i0.wp.com/www.androhub.com/wp-content/uploads/2019/01/default_screen.jpg?resize=512%2C1024) | ![Hide on Scroll](https://i0.wp.com/www.androhub.com/wp-content/uploads/2019/01/scroll_mode.jpg?resize=512%2C1024)
----|---
-Bottom App Bar | Hide on Scroll
-
-For detailed explanation of code, [visit here](http://www.androhub.com/implementing-bottomappbar-material-components/).
+For detailed explanation of code, [visit here](http://www.androhub.com/building-a-custom-overflow-menu/).
 
 # Video Demo
-👉 Watch it <a href="https://youtu.be/jLPkO5F2Q4Q">here</a>.
+👉 Watch it <a href="https://youtu.be/8A7ksaDSwgo">here</a>.
 <br>
 
-[![Watch demo](http://i3.ytimg.com/vi/jLPkO5F2Q4Q/hqdefault.jpg)](https://youtu.be/jLPkO5F2Q4Q)
+[![Watch demo](http://i3.ytimg.com/vi/8A7ksaDSwgo/hqdefault.jpg)](https://youtu.be/8A7ksaDSwgo)
 
 # Support
 Reach out to me at one of the following places!
