@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Overflow Menu Demo</string>
+    <string name="default_overflow_menu">Default Overflow Menu</string>
+    <string name="custom_overflow_menu">Custom Overflow Menu</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="logout">Logout</string>
+    <string name="style_overflow_menu">Styled Overflow Menu</string>
+</resources>
